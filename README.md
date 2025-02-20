@@ -1,4 +1,4 @@
-# Fancy Cat
+# fancy-cat-nix
 
 > [!NOTE]
 > This is a fork, you can find the original repo by @AaronVerDow [here](https://github.com/AaronVerDow/nix/tree/main/pkgs/fancy-cat)
