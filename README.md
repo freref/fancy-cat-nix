@@ -1,7 +1,7 @@
 # fancy-cat-nix
 
 > [!NOTE]
-> This is a fork, you can find the original repo by @AaronVerDow [here](https://github.com/AaronVerDow/nix/tree/main/pkgs/fancy-cat)
+> This is a fork, you can find the original repo by @AaronVerDow [here](https://github.com/AaronVerDow/nix/tree/main/pkgs/fancy-cat). This nix flake is community-maintained and provided as-is without warranty or official support.
 
 Package [fancy-cat](https://github.com/freref/fancy-cat) for use in Nix.
 
