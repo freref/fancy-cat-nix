@@ -13,8 +13,8 @@ stdenv.mkDerivation {
   src = fetchFromGitHub {
     owner = "freref";
     repo = "fancy-cat";
-    rev = "8b073a4dc20d75856f303592ca6ccd46648e2ae6";
-    hash = "sha256-ziHtPfK9GOxKF800kk+kh12Fwh91xbjDYx9wv2pLZWI=";
+    rev = "e719254af8551fdb81d55235a9db2fc1c6fb138c";
+    hash = "sha256-O74oFcb3rEcJ8MReJVLMHnpD5dLsmVzHSsqXR4kQxuE=";
   };
 
   patches = [ ./0001-changes.patch ];
